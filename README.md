@@ -1,6 +1,6 @@
-## Alien Invasion
+### Alien Invasion Game Project
 
-### Requirement
+#### Requirement
 - Python 3.8
 - Python-Pygame 2.0.1
 
